@@ -25,6 +25,7 @@ Title: "Weekly Report {MS name}"
 Description: Copy from [Weekly report description](https://github.com/hungfhp/report-template/blob/main/README.md#1-description-on-weekly-report-issue)
 - [ ] Set "Milestone" is next MS
 - [ ] Assign to yourself
+- [ ] Comment the link of new issue
 
 ### 4. Done
 - [ ] Ping Hung to close this issue
