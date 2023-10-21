@@ -13,12 +13,12 @@ Copy the text bellow by click to "Copy icon" on top-right"
 - [ ] Add new label "Est 0.5h" to Labels
 
 ### 2. Update final report before weekly meeting.
-- [ ] Comment the new report. (By copy-paste the [report format ](https://github.com/bringhacks/2-mobile/issues/227#issuecomment-1773621458)& update data in {...})
-- [ ] Attach screenshot of [all tasks on current MS](https://github.com/bringhacks/2-mobile/issues/227#issuecomment-1773621676). 
+- [ ] Comment the new report. (By copy-paste the [report comment format](https://github.com/hungfhp/report-template/blob/main/README.md#1-description-on-weekly-report-issue)& update data in {...})
+- [ ] Attach screenshot of [all tasks on current MS](https://github.com/hungfhp/report-template/blob/main/README.md#how-to-see-my-issues-on-current-milestone). 
 - [ ] Change label "Est 0.5h" -> "Est 1h" on Labels
 
 ### 3. Create new task for next week
-- [ ] [Create new MS](https://github.com/bringhacks/2-mobile/issues/227#issuecomment-1773621863) if it not available.
+- [ ] [Create new MS](https://github.com/hungfhp/report-template/blob/main/README.md#how-to-create-new-milestone-ms) if it not available.
 MS name: {begin of next MS: MM/DD} - {end of next MS: MM/DD}
 - [ ] [Create new issue](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/creating-and-editing-milestones-for-issues-and-pull-requests).
 Title: "Weekly Report {MS name}"
@@ -70,6 +70,7 @@ Copy the text bellow by click to "Copy icon" on top-right"
 - Filter on "Assignee"
 - Select to view "Open" or "Closed" issues.
 ![Screenshot 2023-10-21 at 13 45 20](https://github.com/hungfhp/report-template/assets/18446429/02effbec-26d0-4fcf-aee0-522b30d649b5)
+
 - Take screenshot of "Open" & "Closed" issues
 
 ### How to create new Milestone (MS)
