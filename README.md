@@ -8,8 +8,8 @@ Copy the text bellow by click to "Copy icon" on top-right"
 ## TODO: 
 
 ### 1. Update middle report at Friday
-- [ ] Comment the new report. (By copy-paste the [report format ](https://github.com/bringhacks/2-mobile/issues/227#issuecomment-1773621458)& update data in {...})
-- [ ] Attach screenshot of [all tasks on current MS](https://github.com/bringhacks/2-mobile/issues/227#issuecomment-1773621676). 
+- [ ] Comment the new report. (By copy-paste the [report comment format](https://github.com/hungfhp/report-template/blob/main/README.md#1-description-on-weekly-report-issue)& update data in {...})
+- [ ] Attach screenshot of [all tasks on current MS](#how-to-see-my-issues-on-current-milestone). 
 - [ ] Add new label "Est 0.5h" to Labels
 
 ### 2. Update final report before weekly meeting.
@@ -22,7 +22,7 @@ Copy the text bellow by click to "Copy icon" on top-right"
 MS name: {begin of next MS: MM/DD} - {end of next MS: MM/DD}
 - [ ] [Create new issue](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/creating-and-editing-milestones-for-issues-and-pull-requests).
 Title: "Weekly Report {MS name}"
-Description: Copy from [Weekly report description](https://github.com/bringhacks/2-mobile/issues/227#issuecomment-1773617348)
+Description: Copy from [Weekly report description](https://github.com/hungfhp/report-template/blob/main/README.md#1-description-on-weekly-report-issue)
 - [ ] Set "Milestone" is next MS
 - [ ] Assign to yourself
 
