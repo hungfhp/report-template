@@ -9,7 +9,7 @@ Copy the text bellow by click to "Copy icon" on top-right"
 
 ### 1. Update middle report at Friday
 - [ ] Comment the new report. (By copy-paste the [report comment format](https://github.com/hungfhp/report-template/blob/main/README.md#1-description-on-weekly-report-issue)& update data in {...})
-- [ ] Attach screenshot of [all tasks on current MS](#how-to-see-my-issues-on-current-milestone). 
+- [ ] Attach screenshot of [all tasks on current MS](https://github.com/hungfhp/report-template/blob/main/README.md#how-to-see-my-issues-on-current-milestone). 
 - [ ] Add new label "Est 0.5h" to Labels
 
 ### 2. Update final report before weekly meeting.
