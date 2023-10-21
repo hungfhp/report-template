@@ -64,13 +64,12 @@ Copy the text bellow by click to "Copy icon" on top-right"
 ----------
 
 ### How to see my issues on current Milestone: 
-- Go to "Issues" page
+- Go to "Issues" page:
 ![Screenshot 2023-10-21 at 13 43 45](https://github.com/hungfhp/report-template/assets/18446429/8f5584ab-3a7f-431d-a2c9-e7107035e79a)
 - Filter on "Milestones"
 - Filter on "Assignee"
-- Select to view "Open" or "Closed" issues.
+- Select to view "Open" or "Closed" issues:
 ![Screenshot 2023-10-21 at 13 45 20](https://github.com/hungfhp/report-template/assets/18446429/02effbec-26d0-4fcf-aee0-522b30d649b5)
-
 - Take screenshot of "Open" & "Closed" issues
 
 ### How to create new Milestone (MS)
